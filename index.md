@@ -5,3 +5,6 @@ My name is Vishnu and I have added text to this file
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Learn about Github
+- [ ] Prepare for Examinations
+- [ ] Learn programming and all subjects and become an expert
